@@ -14,4 +14,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.example.vadExample
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
 
 // Minimum macOS deployment target
-MACOSX_DEPLOYMENT_TARGET = 13.3
+MACOSX_DEPLOYMENT_TARGET = 10.15

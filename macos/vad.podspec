@@ -20,7 +20,7 @@ VAD is a cross-platform Voice Activity Detection system, allowing Flutter applic
   s.source           = { :path => '.' }
   s.dependency 'FlutterMacOS'
   s.dependency 'onnxruntime-objc', '1.22.0'
-  s.platform = :osx, '13.3'
+  s.platform = :osx, '10.15'
   s.static_framework = true
 
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
